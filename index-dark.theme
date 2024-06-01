@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Athena
+Comment=A light theme with depth for high usability.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Athena-Dark
+MetacityTheme=Athena
+ButtonLayout=menu:minimize,maximize,close
